@@ -1,0 +1,9 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore compiled Python files
+src/__pycache__/
+
+src/Keys
+
+src/test_directory/__pycache__
